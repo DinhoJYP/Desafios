@@ -1,0 +1,36 @@
+.cont1{
+    display: flex;
+    flex-direction: row;
+    width: 0 auto;
+    height: 0 auto;
+    justify-content: center;
+}
+.cont2{
+    display: flex;
+    flex-direction: row;
+    width: 0 auto;
+    height: 0 auto;
+    justify-content: center;
+    margin-top: -9px;
+}
+.cont3{
+    display: flex;
+    flex-direction: row;
+    width: 0 auto;
+    height: 0 auto;
+    justify-content: center;margin-top: -9px;
+
+}
+ul{
+    list-style: none;
+    gap: 5px;
+}
+.cont1 img{
+    width: 250px;
+}
+.cont2 img{
+    width: 250px;
+}
+.cont3 img{
+    width: 250px;
+}
